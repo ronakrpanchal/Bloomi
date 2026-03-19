@@ -126,5 +126,3 @@ Start the project
 if you find the project useful, please consider giving it a star ⭐ 💫
 
 Thank you 🤩
-
-## License 
